@@ -41,7 +41,35 @@ mkdir -p ~/.local/share/mc/skins && curl -sL https://github.com/elmodos/mc-skins
 
 ![Turbo Pascal](screenshots/turbo-pascal.png)
 
-### Modern Editor Themes
+### Windows Themes
+
+#### Total Commander
+
+![Total Commander](screenshots/total-commander.png)
+
+#### Windows XP
+
+![Windows XP](screenshots/windows-xp.png)
+
+### macOS Themes
+
+#### macOS Dark
+
+![macOS Dark](screenshots/macos-dark.png)
+
+#### macOS Light
+
+![macOS Light](screenshots/macos-light.png)
+
+### Editor Themes
+
+#### VS Code Dark+
+
+![VS Code Dark](screenshots/vscode-dark.png)
+
+#### VS Code Light+
+
+![VS Code Light](screenshots/vscode-light.png)
 
 #### Monokai Pro
 
@@ -58,6 +86,16 @@ mkdir -p ~/.local/share/mc/skins && curl -sL https://github.com/elmodos/mc-skins
 #### Gruvbox Light
 
 ![Gruvbox Light](screenshots/gruvbox-light.png)
+
+### Adaptive Themes
+
+#### Mono (Dark)
+
+![Mono Dark](screenshots/mono-dark.png)
+
+#### Mono (Light)
+
+![Mono Light](screenshots/mono-llight.png)
 
 ## License
 
